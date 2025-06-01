@@ -1,1 +1,1 @@
-# Adversarial-Training-in-Deep-Learning-Based-Intrusion-Detection-System-Project
+This is the final project of IE7615 - Deep Learning
